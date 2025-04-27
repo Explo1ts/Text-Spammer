@@ -1,5 +1,6 @@
 # Text-Spammer - Made By Exploits
 
+Overview:
 
 This is a simple Python-based spambot GUI that allows you to send repetitive messages using pyautogui. You can either spam a custom message or send multiple lines of text from a file. The script provides an interactive interface to choose between these two options.
 
