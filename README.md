@@ -6,7 +6,7 @@ This is a simple Python-based spambot GUI that allows you to send repetitive mes
 
 Features:
 
-Spam Custom Message: Send a user-defined message multiple times.
-Spam From File: Send lines from a file (filespam.txt) as spam messages.
-Interactive User Interface: The user can easily choose between spamming a custom message or using a file.
-Simple to Use: The script is easy to understand and provides step-by-step instructions during execution.
+  - Spam Custom Message: Send a user-defined message multiple times.
+  - Spam From File: Send lines from a file (filespam.txt) as spam messages.
+  - Interactive User Interface: The user can easily choose between spamming a custom message or using a file.
+  - Simple to Use: The script is easy to understand and provides step-by-step instructions during execution.
